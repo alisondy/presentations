@@ -1,6 +1,6 @@
 # Introduction To K8s Demo
 
-This is the instructions for running the demo that I made for the "Hands on Introduction to kubernetes talk"
+This is the instructions for running the demo that I used for the "Hands on Introduction to kubernetes talk"
 
 ## Create a local cluster using Minikube
 
