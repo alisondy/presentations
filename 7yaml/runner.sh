@@ -6,6 +6,7 @@ build () {
 }
 prep () {
             echo "fix path, copy paste this"
+            
             echo PATH=/Users/alison/google-cloud-sdk/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/go/bin:/Users/alison/go/bin:$PWD/bin                   
             echo "🚢 start kind"
             kind create cluster --image=kindest/node:v1.16.3
